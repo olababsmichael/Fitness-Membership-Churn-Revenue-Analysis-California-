@@ -35,9 +35,8 @@ The goal was to **pinpoint the direct link between churn and revenue** so stakeh
 - **Visualization:** A focused dashboard showing **churn by city, revenue by city, and discount effect on revenue**.  
 
 ### 📂 Project Files  
-- 📘 **Python Notebook:** `[Python Notebook](preprocessing.ipynb)`  
-- 📊 **Dataset (Excel/CSV):** `Fitness_Membership_Dataset.xlsx`  
-- 🖼️ **Dashboard Screenshot:** `dashboard.png`  
+- 📘 [Python Notebook](preprocessing.ipynb) 
+- 📊 [Dataset (Excel/CSV)](Fitness_Membership_Dataset.xlsx)
 
 ---
 
@@ -89,5 +88,9 @@ By focusing on **retention and smarter discounting**, stakeholders can:
 - Build a more sustainable growth model.  
 
 ---
+## 📊 Dashboard Preview  
 
+Here’s the snapshot of the Power BI dashboard that visualizes the insights from this project:
+
+![Dashboard Screenshot](dashboard.png)
 📌 *Prepared using Python preprocessing (`gym.ipynb`) and Power BI dashboard visualizations.*  
